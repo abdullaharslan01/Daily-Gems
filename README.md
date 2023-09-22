@@ -1,9 +1,8 @@
 # Daily Gems - QuoteNote Project
 
-
-
-https://github.com/abdullaharslan01/Daily-Gems/assets/125302932/1b445bdc-7458-4ff9-908d-555d2bc0fa9e
-
+<div style="display: flex; flex-direction: row;">
+   <video src="https://github.com/abdullaharslan01/Daily-Gems/assets/125302932/1b445bdc-7458-4ff9-908d-555d2bc0fa9e" controls /> 
+</div>
 
 
 ## Overview
