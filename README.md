@@ -33,3 +33,6 @@ This project follows a well-organized structure, leveraging OOP principles for m
 - **Flutter**: The framework powering the app's cross-platform functionality.
 - **Dio**: A versatile HTTP client for handling web requests.
 - **Shared Preferences**: A simple solution for local data storage.
+
+![logo](https://github.com/abdullaharslan01/Daily-Gems/assets/125302932/34288b08-6860-4d59-bc99-63f67f981249)
+
