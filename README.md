@@ -2,6 +2,10 @@
 
 
 
+https://github.com/abdullaharslan01/Daily-Gems/assets/125302932/1b445bdc-7458-4ff9-908d-555d2bc0fa9e
+
+
+
 ## Overview
 
 🎗️ QuoteNote is a Flutter application that brings you daily inspirational quotes and allows you to save and customize them. This project is designed with a focus on adhering to Object-Oriented Programming (OOP) principles, providing users with the ability to view and store quotes along with their authors.
